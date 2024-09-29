@@ -1,4 +1,4 @@
 # project-demo
 this is my first repository
 <br>
-author-Dushyant kumar
+author-Dushyant kumar( a lerner)
